@@ -1,0 +1,18 @@
+{
+  "name": "xy_shot",
+  "version": "1.0.0",
+  "description": "Приложение для создания скриншотов выделенной области экрана",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "screenshot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.0.0"
+  }
+}
